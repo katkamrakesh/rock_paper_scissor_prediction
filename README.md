@@ -17,7 +17,7 @@ Rock paper scissors is a hand game usually played between two people, in which e
 Bayes's theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
 
 **Bayes's Theorem formula**
-![Bayes's Theorem](https://katkamrakesh.github.com/rock_paper_scissor_prediction/img/bayes_theorem.png)
+![Bayes's Theorem](https://github.com/katkamrakesh/rock_paper_scissor_prediction/img/bayes_theorem.png)
 
 Equivalently, Bayes Theorem can be written as:
 posterior = likelihood * prior / evidence
